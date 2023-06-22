@@ -97,6 +97,7 @@ legend {
 }
 body{
     background: url("images/the-office-background.svg") center center no-repeat;
+    background-size: 100%;
 }
 main{
     z-index: 3;
@@ -109,7 +110,7 @@ main{
     flex-direction: row;
     align-items: center;
     justify-content: space-around;
-    padding-top: 5%;
+    padding-top: 8%;
 
 }
 .main__block__error h1{
@@ -128,9 +129,12 @@ font-size: 18px;
 font-weight: 400;
 line-height: 100px;
 letter-spacing: 0em;
-text-align: left;
+
 
     color:rgba(75, 67, 74, 1);
+}
+main__block__office img{
+
 }
 button{
 
