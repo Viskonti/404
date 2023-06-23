@@ -50,7 +50,6 @@ img, svg {
 body{
     background: url("images/the-office-background.svg") center center no-repeat;
     background-size: cover;
-    margin-bottom:5%;
 }
 main{
     z-index: 3;
