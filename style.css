@@ -27,6 +27,8 @@ a:hover  {
     text-decoration: none;
 }
 
+
+
 aside, nav, footer, header, section, main {
 	display: block;
 }
@@ -48,15 +50,15 @@ img, svg {
 body{
     background: url("images/the-office-background.svg") center center no-repeat;
     background-size: cover;
+
 }
 main{
-    z-index: 3;
+
     
 }
 .main__block{
     margin: 0 auto;
     display: flex;
-    z-index: 3;
     flex-direction: row;
     align-items: center;
     justify-content: space-around;
